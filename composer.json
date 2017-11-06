@@ -1,7 +1,7 @@
 {
 	"name": "mage2pro/zoho-inventory"
 	,"version": "0.0.8"
-	,"description": "The «Zoho Inventory» extension for Magento 2."
+	,"description": "Zoho Inventory integration with Magento 2"
 	,"type": "magento2-module"
 	,"homepage": "https://github.com/mage2pro/zoho-inventory"
 	,"license": "proprietary"
