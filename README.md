@@ -1,4 +1,4 @@
-The extension integrates your Magento 2 based webstore with the **[Zoho Inventory](https://www.zoho.eu/inventory)** software.  
+This extension integrates a Magento 2 based webstore with the **[Zoho Inventory](https://www.zoho.eu/inventory)** software.  
 See also my Magento 2 extensions for [Zoho CRM](https://github.com/mage2pro/zoho-crm) and [Zoho Books](https://github.com/mage2pro/zoho-books).
 
 ## How to buy
