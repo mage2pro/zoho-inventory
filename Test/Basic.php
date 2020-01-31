@@ -1,5 +1,5 @@
 <?php
-namespace Dfe\ZohoInventory\T;
+namespace Dfe\ZohoInventory\Test;
 use Dfe\ZohoInventory\Settings as S;
 use Dfe\ZohoInventory\API\Facade as F;
 // 2017-07-05
