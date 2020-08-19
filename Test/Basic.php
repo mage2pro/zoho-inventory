@@ -2,7 +2,7 @@
 namespace Dfe\ZohoInventory\Test;
 use Dfe\ZohoInventory\Settings as S;
 use Dfe\ZohoInventory\API\Facade as F;
-// 2017-07-05
+# 2017-07-05
 final class Basic extends TestCase {
 	/** @test 2017-07-05 */
 	function t00() {}
