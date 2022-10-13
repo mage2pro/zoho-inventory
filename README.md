@@ -41,3 +41,4 @@ rm -rf pub/static/*
 bin/magento setup:static-content:deploy -f en_US <additional locales>
 bin/magento maintenance:disable
 ```
+
